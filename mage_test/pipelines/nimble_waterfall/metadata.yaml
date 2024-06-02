@@ -1,0 +1,26 @@
+blocks: []
+cache_block_output_in_memory: false
+callbacks: []
+concurrency_config: {}
+conditionals: []
+created_at: '2024-05-31 15:51:17.428509+00:00'
+data_integration: null
+description: tests
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: nimble waterfall
+notification_config: {}
+remote_variables_dir: null
+retry_config: {}
+run_pipeline_in_one_process: false
+settings:
+  triggers: null
+spark_config: {}
+tags:
+- test_tag
+type: python
+uuid: nimble_waterfall
+variables_dir: /home/guimas/.mage_data/mage_test
+widgets: []
